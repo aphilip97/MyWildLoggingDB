@@ -78,3 +78,6 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+swagger_spwa/authproviderconfig.js
+.vscode/launch.json
