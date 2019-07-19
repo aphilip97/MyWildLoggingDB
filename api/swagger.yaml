@@ -368,7 +368,7 @@ securityDefinitions:
     authorizationUrl: 'https://myurbanwild.eu.auth0.com/authorize'
     flow: implicit
     scopes:
-      admin: Full Access
+      admin: can remove or alter items
 definitions:
   Event:
     type: object
