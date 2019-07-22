@@ -81,3 +81,5 @@ typings/
 
 swagger_spwa/authproviderconfig.js
 .vscode/launch.json
+
+.DS_Store
